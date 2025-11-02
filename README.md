@@ -36,7 +36,8 @@ portfolio-website/
 ├── README.md          # Dokumentasi ini
 └── assets/            # (Optional) Folder untuk gambar
     └── profile.jpg    # Foto profil Anda
-    └── profile.jpg    # Foto profil Anda
+    └── style.css    # File CSS
+    └── script.js   # File JavaScript
 ```
 
 **Note:** Website ini menggunakan single file HTML dengan CSS dan JavaScript embedded untuk kemudahan deployment.
@@ -49,7 +50,7 @@ portfolio-website/
 
 ```bash
 # Clone repository (jika menggunakan Git)
-git clone https://github.com/username/portfolio-website.git
+git clone https://github.com/ghulamch/PenugasanFantechDay1.git
 
 # Atau download file index.html langsung
 ```
@@ -315,18 +316,9 @@ Website template ini **Free to Use** untuk personal dan commercial projects.
 
 Butuh bantuan atau punya pertanyaan?
 
-- 📧 Email: your.email@example.com
+- 📧 Email: mail@ghulam.my.id
 - 💬 LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- 🐛 Issues: [GitHub Issues](https://github.com/username/repo/issues)
-
----
-
-## 🙏 Credits
-
-- **Design Inspiration**: Modern web design trends 2024-2025
-- **Icons**: Emoji (Native Unicode)
-- **Fonts**: System fonts for optimal performance
-- **Colors**: Custom gradient palette
+- 🌐 Website Utama: https://ghulam.my.id
 
 ---
 
@@ -336,6 +328,6 @@ Butuh bantuan atau punya pertanyaan?
 
 Made with ❤️ and HTML
 
-© 2025 Your Name. All Rights Reserved.
+© 2025 Ghulam. All Rights Reserved.
 
 </div>
