@@ -304,20 +304,12 @@ Punya ide untuk improve website ini?
 
 ---
 
-## 📄 License
-
-Website template ini **Free to Use** untuk personal dan commercial projects.
-
-**Attribution appreciated but not required!** 😊
-
----
-
 ## 📞 Support
 
 Butuh bantuan atau punya pertanyaan?
 
 - 📧 Email: mail@ghulam.my.id
-- 💬 LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+- 💬 LinkedIn: [My Profile](https://www.linkedin.com/in/ghulaminchalimalwi/)
 - 🌐 Website Utama: https://ghulam.my.id
 
 ---
